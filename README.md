@@ -54,7 +54,7 @@ Summary statistics of trading results.
 ## How to Run the Project
 Clone the repository.
 
-git clone https://github.com/your-username/Trading-Results-Analysis.git
+git clone https://github.com/RituKumari98/Trades-data-analysis-Project
 
 Open Jupyter Notebook
 
